@@ -28,7 +28,7 @@ A full-stack web application built for the **Vicharanashala Internship Programme
 The portal provides:
 
 - 📚 A fully searchable FAQ platform with dual-language support (English and Hindi)
-- 🤖 **Yaksha** — an AI assistant powered by Gemini 2.0 Flash, trained on the full internship knowledge base
+- 🤖 **Yaksha** — an intelligent assistant driven by Gemini 2.0 Flash and enriched with the organization's internship knowledge resources.
 - 👍 A **voting system** so interns can upvote/downvote FAQ helpfulness
 - 📊 A live **server status** indicator and real-time clock
 - 🌙 **Dark / Light mode** toggle with persistent preference
