@@ -1,4 +1,3 @@
-<div align="center">
 
 # 🏛️ Crowd Sourcing FAQ & AI Assistant Portal
 ### Official FAQ & Information Hub — IIT Ropar
@@ -21,6 +20,12 @@
 
 ---
 
+## Screenshots
+<img width="1095" height="620" alt="Screenshot 2026-06-20 114512" src="https://github.com/user-attachments/assets/8516c3ca-669e-49fd-882c-7573919dda44" />
+<img width="1082" height="615" alt="Screenshot 2026-06-20 114615" src="https://github.com/user-attachments/assets/76b06219-4cf2-45cc-a29f-40de96aee764" />
+<img width="1079" height="615" alt="Screenshot 2026-06-20 114700" src="https://github.com/user-attachments/assets/21d3244b-cc17-42b0-b994-8875df1f5f77" />
+
+---
 ## 📌 About the Project
 
 A full-stack web application built for the **Vicharanashala Internship Programme at IIT Ropar** — a two-month, fully-online open-source internship run by Prof. Sudarshan Iyengar's lab.
