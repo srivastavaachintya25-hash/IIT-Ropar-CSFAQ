@@ -28,7 +28,11 @@
 ---
 ## 📌 About the Project
 
-A full-stack web application built for the **Vicharanashala Internship Programme at IIT Ropar** — a two-month, fully-online open-source internship run by Prof. Sudarshan Iyengar's lab.
+The Crowd Sourcing FAQ & AI Assistant Portal is a full-stack web application developed as part of the Vicharanashala Internship Programme 2026 at IIT Ropar, an open-source initiative led by the Lab of Prof. Sudarshan Iyengar.
+
+The platform serves as a centralized knowledge and support hub for interns, providing instant access to internship-related information through an interactive FAQ system and an AI-powered virtual assistant.
+
+Designed to reduce repetitive queries and improve information accessibility, the portal combines crowd-sourced knowledge, multilingual support, and generative AI to deliver a modern self-service experience.
 
 The portal provides:
 
@@ -38,6 +42,14 @@ The portal provides:
 - 📊 A live **server status** indicator and real-time clock
 - 🌙 **Dark / Light mode** toggle with persistent preference
 
+---
+🏆 Impact
+
+The portal streamlines information dissemination for internship participants by providing 24/7 access to verified resources, reducing dependency on manual support channels and improving the overall onboarding experience.
+---
+🤝 Acknowledgements
+
+Developed during the Vicharanashala Internship Programme 2026 under the guidance of the team at IIT Ropar and supported by the Samagama Foundation.
 ---
 
 ## 🖥️ Tech Stack
