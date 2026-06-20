@@ -125,7 +125,7 @@ IIT-Ropar/
 - Python 3.10+
 - Google AI Studio API Key
 
-### Backend Setup
+### ⚙️ Backend Setup
 
 ```bash
 cd backend
@@ -151,7 +151,7 @@ Backend runs on:
 http://localhost:8000
 ```
 
-### Frontend Setup
+### 🎨 Frontend Setup
 
 ```bash
 cd frontend
